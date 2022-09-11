@@ -45,3 +45,6 @@ $ npm start --prefix client
 When you find a mis-spelled question or want to change it, there is an easy way to query the database. When you open the console, it will give you the ID number the current question belongs to, making it easy to search the database.
 
 <img src='./images/sample_2.png' width='600px' height='auto'>
+
+<br></br>
+Please check my blog post for more details! [https://yoojincm.blogspot.com/2022/09/flashcard-app-that-helps-your-study.html]
