@@ -47,4 +47,4 @@ When you find a mis-spelled question or want to change it, there is an easy way 
 <img src='./images/sample_2.png' width='600px' height='auto'>
 
 <br></br>
-Please check my blog post for more details! [blog post](https://yoojincm.blogspot.com/2022/09/flashcard-app-that-helps-your-study.html)
+Please check my blog post for more details! [-> blog post](https://yoojincm.blogspot.com/2022/09/flashcard-app-that-helps-your-study.html)
